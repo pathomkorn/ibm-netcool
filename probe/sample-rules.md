@@ -5,5 +5,5 @@
 ```
 * Adapt with pulling hostname from FQDN
 ```
-[ $devname2 ] = scanformat( regreplace( $devfqdn2, "\.", " " ), "%s" )
+[ $devname ] = scanformat( regreplace( $devfqdn, "\.", " " ), "%s" )
 ```
