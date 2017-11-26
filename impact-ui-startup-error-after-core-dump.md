@@ -5,5 +5,5 @@
 ```
 * Start ImpactUI server with cleanup
 ```bash
-# $IMPACT_HOME/wlp/bin/server start ImpactUI
+# $IMPACT_HOME/wlp/bin/server start ImpactUI --clean
 ```
